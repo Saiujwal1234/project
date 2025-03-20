@@ -1,2 +1,2 @@
-# project
-this is first git repo
+# project 
+Hello my name is sai ujwak
